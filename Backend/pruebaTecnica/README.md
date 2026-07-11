@@ -89,7 +89,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 Clonar repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/jeiner21/employees_api/
 ```
 
 Entrar al proyecto:
