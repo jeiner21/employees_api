@@ -41,7 +41,8 @@ employees-benefits
 - Maven
 - REST API
 - Lombok
-- Validaciones con Jakarta Validation
+- Validaciones con Jakarta 
+- Swagger/OpenAPI
   
 
 ## Frontend
