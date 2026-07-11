@@ -22,6 +22,10 @@ API REST desarrollada con Spring Boot para la gestión de empleados y sus benefi
 * Respuestas mediante DTOs.
 * Mapper para transformación de entidades.
 * Consumo de API externa para consulta de ubicaciones mediante OpenStreetMap.
+## Documentacion de la API
+La Api esta documentada con Swagger/OpenAPI
+Una vez iniciada la aplicacion, puedes acceder a la documentacion
+http://localhost:8080/swagger-ui/index.html
 
 ## Arquitectura del proyecto
 
