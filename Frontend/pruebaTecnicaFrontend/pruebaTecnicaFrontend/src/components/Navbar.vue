@@ -2,12 +2,12 @@
   <nav class="navbar">
 
     <div class="logo">
-      👨‍💼 Employees Benefits
+      Employees Benefits
     </div>
 
     <div class="menu">
       <router-link to="/">
-        🏠 Dashboard
+        Dashboard
       </router-link>
     </div>
 

@@ -162,7 +162,7 @@ const removeBenefit = async (id: number) => {
 
       <div class="header">
 
-        <h1>👤 {{ employee.name }}</h1>
+        <h1>{{ employee.name }}</h1>
 
         <div>
 
@@ -186,13 +186,13 @@ const removeBenefit = async (id: number) => {
 
       <div class="info">
 
-        <p><strong>📧 Email:</strong> {{ employee.email }}</p>
+        <p><strong>Email:</strong> {{ employee.email }}</p>
 
-        <p><strong>🏙️ Ciudad:</strong> {{ employee.city }}</p>
+        <p><strong>Ciudad:</strong> {{ employee.city }}</p>
 
-        <p><strong>🌍 Latitud:</strong> {{ employee.latitude }}</p>
+        <p><strong>Latitud:</strong> {{ employee.latitude }}</p>
 
-        <p><strong>📍 Longitud:</strong> {{ employee.longitude }}</p>
+        <p><strong>Longitud:</strong> {{ employee.longitude }}</p>
 
       </div>
 
